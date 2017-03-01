@@ -1,5 +1,5 @@
-Supporting Information for
---------------------------
+Supporting Information
+----------------------
 
 # Submission
 Christiane Schaefer, Nikhil Mallela, Jochen Seggewiss, Birgit Lechtape, Darren Saunders, Heymut Omran, Uta Dirksen, Eberhard Korsching, Jenny Potratz.
