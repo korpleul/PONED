@@ -6,7 +6,7 @@ Christiane Schaefer, Nikhil Mallela, Jochen Seggewiss, Birgit Lechtape, Darren S
 
 Target Discovery Screens Using Pooled shRNA Libraries and Next Generation Sequencing: a Model Workflow and Analytical Algorithm.
 
-* Shiny - Web application : xx.zip
+* R-Shiny web application : ProFED.zip
 
 ---
 
