@@ -1,4 +1,4 @@
-## Supporting information for
+### Supporting information for
 
 ---
 ---
