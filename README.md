@@ -5,7 +5,7 @@
 
 #### New submission
 
-Christiane Schaefer, Nikhil Mallela, Jochen Seggewiss, Birgit Lechtape, Darren Saunders, Heymut Omran, Uta Dirksen, Eberhard Korsching, Jenny Potratz.
+Christiane Schaefer, Nikhil Mallela, Jochen Seggewiss, Birgit Lechtape, Heymut Omran, Uta Dirksen, Eberhard Korsching, Jenny Potratz.
 
 Target Discovery Screens Using Pooled shRNA Libraries and Next Generation Sequencing: a Model Workflow and Analytical Algorithm.
 
