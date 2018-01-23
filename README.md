@@ -3,7 +3,7 @@
 ---
 ---
 
-#### PLoS One submission
+#### PLoS ONE submission
 
 Sedigheh Gharbi, Shahriar Khateri, Mohammad Reza Soroush, Mehdi Shamsara, Parisa Naeli, Ali Najafi, Eberhard Korsching, Seyed Javad Mowla.
 
@@ -14,7 +14,7 @@ MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic 
 ---
 ---
 
-#### PLoS One accepted
+#### PLoS ONE accepted
 
 Christiane Schaefer, Nikhil Mallela, Jochen Seggewiss, Birgit Lechtape, Heymut Omran, Uta Dirksen, Eberhard Korsching, Jenny Potratz.
 
@@ -25,7 +25,7 @@ Target Discovery Screens Using Pooled shRNA Libraries and Next Generation Sequen
 ---
 ---
 
-#### PLoS One. 2015 Apr 7;10(4):e0123082.
+#### PLoS ONE. 2015 Apr 7;10(4):e0123082.
 
 Poos K, Smida J, Maugg D, Eckstein G, Baumhoer D, Nathrath M, Korsching E.
 
