@@ -3,7 +3,18 @@
 ---
 ---
 
-#### New submission
+#### PLoS One submission
+
+Sedigheh Gharbi, Shahriar Khateri, Mohammad Reza Soroush, Mehdi Shamsara, Parisa Naeli, Ali Najafi, Eberhard Korsching, Seyed Javad Mowla.
+
+MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic gateway to improve care.
+
+* RTPCR data : rtpcr_p1_miR_exiqon.zip
+
+---
+---
+
+#### PLoS One accepted
 
 Christiane Schaefer, Nikhil Mallela, Jochen Seggewiss, Birgit Lechtape, Heymut Omran, Uta Dirksen, Eberhard Korsching, Jenny Potratz.
 
