@@ -14,11 +14,13 @@ MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic 
 ---
 ---
 
-#### PLoS ONE accepted
+#### PLoS ONE. 2018 Jan 31;13(1):e0191570.
 
 Christiane Schaefer, Nikhil Mallela, Jochen Seggewiss, Birgit Lechtape, Heymut Omran, Uta Dirksen, Eberhard Korsching, Jenny Potratz.
 
 Target Discovery Screens Using Pooled shRNA Libraries and Next Generation Sequencing: a Model Workflow and Analytical Algorithm.
+
+doi: 10.1371/journal.pone.0191570
 
 * R-Shiny web application : ProFED.zip
 
