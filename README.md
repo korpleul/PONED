@@ -8,8 +8,9 @@
 Sedigheh Gharbi, Shahriar Khateri, Mohammad Reza Soroush, Mehdi Shamsara, Parisa Naeli, Ali Najafi, Eberhard Korsching, Seyed Javad Mowla.
 
 MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic gateway to improve care.
+[data is also submitted to GEO -- in progress]
 
-* RTPCR data : RTPCR_miR_exiqon.zip  [data is also submitted to GEO -- in progress]
+* RTPCR data : RTPCR_miR_exiqon.zip
 
 ---
 ---
