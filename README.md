@@ -12,6 +12,7 @@ MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic 
 [data is also submitted to GEO -- in progress]
 
 * RTPCR data : RTPCR_miR_exiqon.zip
+* Figures, Tables, Code : Supporting_Information.zip
 
 ---
 ---
