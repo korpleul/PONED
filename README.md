@@ -3,13 +3,13 @@
 ---
 ---
 
-#### PLoS ONE submission
+#### PLoS One. 2018 Mar 22;13(3):e0194530.
 
 Sedigheh Gharbi, Shahriar Khateri, Mohammad Reza Soroush, Mehdi Shamsara, Parisa Naeli, Ali Najafi, Eberhard Korsching, Seyed Javad Mowla.
 
 MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic gateway to improve care.
 
-[data is also submitted to GEO -- in progress]
+RTPCR data also submitted to GEO -- GSE110797
 
 * RTPCR data : RTPCR_miR_exiqon.zip
 * Figures, Tables, Code : Supporting_Information.zip
