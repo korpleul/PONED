@@ -7,7 +7,7 @@
 
 Xinwei Zhao, Eberhard Korsching.
 
-MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic gateway to improve care.
+MAF.
 
 * Core elements and folder structure : MAF.zip
 * mRNA:
