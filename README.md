@@ -44,7 +44,7 @@ Sedigheh Gharbi, Shahriar Khateri, Mohammad Reza Soroush, Mehdi Shamsara, Parisa
 MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic gateway to improve care.
 
 https://doi.org/10.1371/journal.pone.0194530
-<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110797" class="whiteT" target="_blank" title="">GEO GSE110797</a>
+* <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110797" class="whiteT" target="_blank" title="">GEO GSE110797</a>
 * <a href="https://complex-systems.uni-muenster.de/sinfo.html" class="whiteT" target="_blank" title="">Supporting information page</a>.
 
 ---
