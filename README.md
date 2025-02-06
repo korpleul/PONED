@@ -7,7 +7,7 @@
 
 Xinwei Zhao, Eberhard Korsching.
 
-MAF.
+MAF - Multi-alignment framework - consider and detect genomic and transcriptomic sequence alignment variability by comparing different techniques.
 
 Core element: 
 <a href="https://complex-systems.uni-muenster.de/download/methX/MAF.zip" class="whiteT" target="_blank" title="">MAF.zip</a>, 
