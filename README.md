@@ -34,6 +34,8 @@ MAF.
 * programs: 
 <a href="https://complex-systems.uni-muenster.de/download/methX/install.zip" class="whiteT" target="_blank" title="">install.zip</a>.
 
+* <a href="https://complex-systems.uni-muenster.de/sinfo.html" class="whiteT" target="_blank" title="">Supporting information page</a>.
+
 ---
 ---
 
