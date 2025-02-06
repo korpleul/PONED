@@ -9,7 +9,7 @@ Xinwei Zhao, Eberhard Korsching.
 
 MAF.
 
-* Core element: 
+Core element: 
 <a href="https://complex-systems.uni-muenster.de/download/methX/MAF.zip" class="whiteT" target="_blank" title="">MAF.zip</a>, 
 mRNA: 
 <a href="https://complex-systems.uni-muenster.de/download/methX/111HUmte.tar.gz" class="whiteT" target="_blank" title="">111HUmte</a>, 
