@@ -3,6 +3,39 @@
 ---
 ---
 
+#### MethodX. 2025 Feb submitted.
+
+Xinwei Zhao, Eberhard Korsching.
+
+MicroRNA expression in serum samples of sulfur mustard veterans as a diagnostic gateway to improve care.
+
+* Core elements and folder structure : MAF.zip
+* mRNA:
+111HUmte.tar.gz,
+mte.Homo_sapiens.GRCh38.111.gtf.gz,
+mte.trans.hu.GRCh38.111.primary.fa.gz
+* miRNA:
+111HUpmm.tar.gz,
+111HUmt.tar.gz,
+bt2_mt.tar.gz,
+bt2_pir.tar.gz,
+bt2_111HU.tar.gz,
+bb_mt.tar.gz,
+Homo_sapiens.GRCh38.111.mirbase.gtf.gz,
+hu.trans.GRCh38.111.mirbase.fa.gz,
+hu.trans.GRCh38.111.primary.fa.gz,
+m2_miRtRNA.fasta.gz,
+mt.Homo_sapiens.miRtRNA.gtf.gz,
+mt.trans.hu.miRtRNA.111.primary.fa.gz
+* test data:
+mRNA.fastq.gz,
+microRNA.fastq.gz
+* programs:
+install.zip
+
+---
+---
+
 #### PLoS One. 2018 Mar 22;13(3):e0194530.
 
 Sedigheh Gharbi, Shahriar Khateri, Mohammad Reza Soroush, Mehdi Shamsara, Parisa Naeli, Ali Najafi, Eberhard Korsching, Seyed Javad Mowla.
