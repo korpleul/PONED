@@ -3,7 +3,7 @@
 ---
 ---
 
-#### MethodX. 2025 Feb submitted.
+#### MethodsX. 2025 Feb submitted.
 
 Xinwei Zhao, Eberhard Korsching.
 
